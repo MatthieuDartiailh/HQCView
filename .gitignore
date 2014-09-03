@@ -1,0 +1,8 @@
+*.pyc
+*.spyderproject
+*.enamlc
+*.log
+*.log.*
+*.py~
+*.coverage
+tests/cover
